@@ -7,7 +7,7 @@
 
 ### 📚 연구 논문 목록 (Publications)
 
-🔗 [KCSE 2025] 상관관계 기반 파생변수 생성과 AutoML을 활용한 감귤 착과량 예측] 
+🔗 [KCSE 2025](https://github.com/AI-SJS/AI-SJS-Paper/tree/main/KCSE2025) 상관관계 기반 파생변수 생성과 AutoML을 활용한 감귤 착과량 예측] 
 > **Keywords:** `AutoML`, `Feature Engineering`
 > 상관관계가 높은 '새순' 데이터에 집중한 파생변수 설계를 통해 감귤 착과량 예측 모델의 오차를 약 29% 개선한 연구입니다.
 
